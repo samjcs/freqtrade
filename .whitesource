@@ -1,7 +1,6 @@
 {
   "scanSettings": {
     "configMode": "LOCAL",
-    //"configExternalURL": "https://raw.githubusercontent.com/samjcs/freqtrade/develop/wss-unified-agent.config",
     "projectToken": "",
     "baseBranches": []
   },
